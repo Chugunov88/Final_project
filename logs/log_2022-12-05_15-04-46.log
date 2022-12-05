@@ -1,0 +1,44 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_1 (call)
+Start time: 2022-12-05 15:04:47.902380
+Start name method: authorization
+
+End time: 2022-12-05 15:04:56.001174
+End name method: authorization
+URL: https://murav.ru/personal/?login=yes
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_1 (call)
+Start time: 2022-12-05 15:04:56.002182
+Start name method: select_power_tool_page
+
+End time: 2022-12-05 15:04:58.285491
+End name method: select_power_tool_page
+URL: https://murav.ru/catalog/tools/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_1 (call)
+Start time: 2022-12-05 15:05:00.999927
+Start name method: click_drill_STOMER_SAD_98290103
+
+End time: 2022-12-05 15:05:07.768888
+End name method: click_drill_STOMER_SAD_98290103
+URL: https://murav.ru/personal/order/make/
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_products_1 (call)
+Start time: 2022-12-05 15:05:07.768888
+Start name method: finish
+
+End time: 2022-12-05 15:05:07.969377
+End name method: finish
+URL: https://murav.ru/personal/order/make/
+
+-----

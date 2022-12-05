@@ -1,0 +1,16 @@
+Start test
+Start Test 1
+Input user name
+Input password
+Click Login Button
+Good value word
+Current url https://murav.ru/personal/?login=yes
+Click catalog
+Click power tool
+Good value url
+Current url https://murav.ru/catalog/akkumulyatornye_dreli_shurupoverty/
+Click on Rechargeable Drills
+Used filter 1000-3000
+used filter for Stomer drill
+used filter goods by a line
+Finish test
